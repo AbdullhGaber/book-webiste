@@ -1,0 +1,12 @@
+header{
+
+background-image: linear-gradient(rgba(86, 164, 180,1),rgba(86, 164, 180 , 0.7))  , url(../images/mountains.jpg);
+background-position: center;
+background-size: cover;
+min-height: 100vh;
+}
+.headernav{
+
+border-bottom: double 6px #96C7D1;
+
+}
